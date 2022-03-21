@@ -25,8 +25,8 @@ Please note: For the below statements you need to state the Null and Alternate a
    - Are the type of complaint or service requested and location related?
 
 Dataset Description :
--Field 	Description
--Unique Key 	(Plain text) - Unique identifier for the complaints
+   -Field 	Description
+ -Unique Key 	(Plain text) - Unique identifier for the complaints
 -Created Date 	(Date and Time) - The date and time on which the complaint is raised
 -Closed Date 	(Date and Time)  - The date and time on which the complaint is closed
 -Agency 	(Plain text) - Agency code
